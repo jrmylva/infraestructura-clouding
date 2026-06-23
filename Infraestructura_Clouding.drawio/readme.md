@@ -1,1 +1,0 @@
-Infraestructura_Clouding.drawio
