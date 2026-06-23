@@ -1,0 +1,33 @@
+                   INTERNET
+────────────────────────────────────────────
+
+              Clouding Firewall
+                     │
+
+══════════════════════════════════════════════
+      Red Pública (IPs públicas)
+══════════════════════════════════════════════
+
+VPNpfSense
+
+sgaserverubu
+
+sgaserverwin
+
+eqgest
+
+myltest16es
+
+mylodoo16es
+
+mylodoo16fr
+
+mylvoip173
+
+...
+
+══════════════════════════════════════════════
+        VPC 10.20.10.0/24
+══════════════════════════════════════════════
+
+Todos conectados a la VPC
